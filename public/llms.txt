@@ -1,0 +1,108 @@
+# הכיכר — Generative Engine Optimization Map
+
+> An online marketplace platform inspired by eBay, designed to facilitate buying and selling of products online. The concept revolves around a multi-vendor or auction-style e-commerce experience where users can list, browse, and purchase a wide variety of products.
+
+---
+
+## Pages
+
+### בית
+https://-284bd28b.zappy5.app
+גלו את הכיכר, פלטפורמת המסחר האלקטרוני הטובה ביותר לעסקים קטנים. קנו ומכרו מוצרים במכרז או במכירה ישירה, עם ניהול מלאי חכם. הצטרפו עוד היום לזירת המסחר החדשה!
+
+### איך זה עובד
+https://-284bd28b.zappy5.app/how-it-works
+למדו איך זה עובד בכיכר: צעד אחר צעד להפיכת מוצרים למכירות. פלטפורמת b2b ecommerce platforms עם תהליך פשוט ויעיל. התחילו לרשום מוצרים תוך דקות!
+
+### אמון וקיימות
+https://-284bd28b.zappy5.app/trust-sustainability
+בכיכר, אמון וקיימות הם הבסיס. אנו משלבים ecommerce inventory management עם ערכי סחר הוגן ושמירה על הסביבה. הצטרפו לקהילה שמובילה שינוי!
+
+### שאלות נפוצות
+https://-284bd28b.zappy5.app/faq
+שאלות נפוצות על הכיכר: קבלו מענה מהיר לכל שאלה על best ecommerce platform for small business. טיפים, הסברים ופתרונות שיעזרו לכם למכור ולקנות בביטחון.
+
+### צור קשר
+https://-284bd28b.zappy5.app/contact
+צרו קשר עם צוות הכיכר לקבלת סיוע בבחירת b2b ecommerce platforms לניהול המלאי והמכירות שלכם. אנחנו כאן כדי להפוך את הרעיון שלכם להצלחה מסחרית!
+
+### Products
+https://-284bd28b.zappy5.app/products
+המוצרים שלנו - הכיכר
+
+### Cart
+https://-284bd28b.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-284bd28b.zappy5.app/checkout
+תשלום
+
+### Login
+https://-284bd28b.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-284bd28b.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-284bd28b.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-284bd28b.zappy5.app/product/:slug
+פרטי המוצר - הכיכר
+
+### Category
+https://-284bd28b.zappy5.app/category/:slug
+מוצרים - הכיכר
+
+### תודה - ההודעה התקבלה
+https://-284bd28b.zappy5.app/thank-you
+הכיכר - תודה - ההודעה התקבלה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-284bd28b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-284bd28b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-284bd28b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הכיכר
+An online marketplace platform inspired by eBay, designed to facilitate buying and selling of products online. The concept revolves around a multi-vendor or auction-style e-commerce experience where users can list, browse, and purchase a wide variety of products.
+
+## Target Audience
+- חובבי טכנולוגיה שמחפשים מבצעים
+- צרכנים ידידותיים לסביבה
+- מקצוענים צעירים
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-284bd28b.zappy5.app/sitemap.xml
+- Robots: https://-284bd28b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-284bd28b.zappy5.app/llms-full.txt
+- Products (JSON): https://-284bd28b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-284bd28b.zappy5.app/product-feed.xml
